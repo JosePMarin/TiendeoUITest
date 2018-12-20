@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow", "TiendeoUITest\SpecFlow.csproj", "{0878AB24-5ECA-4E19-84DB-275FA85986D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium", "Selenium\Selenium.csproj", "{C90F007A-D46F-414A-8CAF-A02766B7A370}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20B5ECB5-90F4-4E98-98E5-329559C4DAB4}"
+	ProjectSection(SolutionItems) = preProject
+		test.runsettings = test.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0878AB24-5ECA-4E19-84DB-275FA85986D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0878AB24-5ECA-4E19-84DB-275FA85986D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0878AB24-5ECA-4E19-84DB-275FA85986D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0878AB24-5ECA-4E19-84DB-275FA85986D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90F007A-D46F-414A-8CAF-A02766B7A370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90F007A-D46F-414A-8CAF-A02766B7A370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90F007A-D46F-414A-8CAF-A02766B7A370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90F007A-D46F-414A-8CAF-A02766B7A370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D371C3-BB98-438F-8D06-C7D8AF6C2149}
+	EndGlobalSection
+EndGlobal

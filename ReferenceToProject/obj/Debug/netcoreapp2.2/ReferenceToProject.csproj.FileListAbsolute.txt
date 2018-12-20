@@ -1,0 +1,16 @@
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\ReferenceToProject.deps.json
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\ReferenceToProject.runtimeconfig.json
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\ReferenceToProject.runtimeconfig.dev.json
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\ReferenceToProject.dll
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\Selenium.dll
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.dll
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\Selenium.pdb
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\Selenium.dll.config
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.csprojAssemblyReference.cache
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.csproj.CoreCompileInputs.cache
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.AssemblyInfoInputs.cache
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.AssemblyInfo.cs
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.csproj.CopyComplete
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\bin\Debug\netcoreapp2.2\ReferenceToProject.pdb
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.dll
+C:\Users\donjo\source\repos\TiendeoUITest\ReferenceToProject\obj\Debug\netcoreapp2.2\ReferenceToProject.pdb
