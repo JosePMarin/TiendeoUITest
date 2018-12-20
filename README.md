@@ -2,13 +2,20 @@
 
 Para la realización de los tests end to end de la web www.tiendeo.com y teniendo en cuenta que hay que realizar una cobertura de los puntos críticos en un día laboral (8 horas), vamos a optar por realizar un set de smoke test con el que tendremos una cobertura mínima. Además este set podría ser utilizado tras cada deploy (despliegue?) de forma automática para chequear la integridad de lo deployado.
 
+
 Para la realización de los tests automáticos del smoke test usaremos: 
 
--Selenium webdriver para el navegador Chrome (Se estima como el mas empleado)
--Nunit framework para unit test que usaremos de runner
--SpecFlow adaptación de cucumber para .net
--C#
--Visual Studio community edition 2017
+	-Selenium webdriver para el navegador Chrome (Se estima como el mas empleado)
+
+	-Nunit framework para unit test que usaremos de runner
+
+	-SpecFlow adaptación de cucumber para .net
+
+	-C#
+
+	-Visual Studio community edition 2017
+
+
 
 Definición del smoke Test Funcional:
 
